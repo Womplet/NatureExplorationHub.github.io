@@ -15,7 +15,7 @@ body {
 }
 
 header {
-  background-color: rgba(56, 135, 214, 0.5);
+  background-color: rgba(0, 51, 102, 0.5);
   color: #fff;
   padding: 10px;
   text-align: center;
@@ -23,7 +23,7 @@ header {
 }
 
 .page2{
-  background-color: rgba(0, 51, 102, 0.85);
+  background-color: rgba(79, 117, 223, 0.85);
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
 }
 
