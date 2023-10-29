@@ -1,6 +1,7 @@
 html {
   width: 100%;
   margin: 0;
+  font-size: 18px;
 }
 
 body {
@@ -45,7 +46,7 @@ h2 {
 
 p {
   text-align: center;
-  font-size: 18px;
+  font-size: 1rem;
   line-height: 1.5;
   color: #333;
   font-family: "Noto Sans JP", sans-serif;
