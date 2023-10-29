@@ -87,6 +87,10 @@ nav a:hover {
   color: #ffcc00;
 }
 
+nav a.active{
+  color: #ffcc00;
+}
+
 main {
   max-width: 95%;
   margin: 20px;
